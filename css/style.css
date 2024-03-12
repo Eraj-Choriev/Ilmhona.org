@@ -1,0 +1,662 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Yellowtail&display=swap');
+
+
+
+* {
+
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+ font-family: 'Montserrat', sans-serif;
+
+}
+
+
+
+.navbar.navbar-expand-lg {
+
+  padding: 2rem 1rem;
+
+
+}
+
+span:hover {
+
+color: #1a9eda;
+
+}
+
+
+.d-flex {
+
+ display: flex;
+ gap: 2rem;
+
+}
+
+
+.just-btn  {
+
+
+  width: 180px;
+  height: 60px;
+  background-color: #ff8514;
+  border: none;
+  border-radius: 50px;
+  color: aliceblue;
+  
+}
+
+
+.just-btn {
+   
+    overflow: hidden; 
+  }
+  .just-btn {
+    transition: 1s; 
+    
+  }
+  .just-btn:hover {
+    transform: scale(1.2);
+  }
+
+
+.just-btn-2 {
+
+
+ width: 180px;
+ height: 60px;
+ background-color: #1a9eda;
+ border: none;
+ border-radius: 50px;
+ color: aliceblue;
+
+}
+
+.just-btn-2 {
+   
+    overflow: hidden; 
+  }
+  .just-btn-2 {
+    transition: 1s; 
+    
+  }
+.just-btn-2:hover {
+
+
+    transform: scale(1.2);
+
+}
+
+
+
+.back {
+
+ 
+    background-color: #1a9eda;
+    width: 100%;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+
+
+.none {
+
+ text-decoration: none;
+ color: #060d2c;
+
+}
+
+.decor {
+
+  
+  color: aliceblue;
+  font-weight: 400;
+  
+
+
+}
+
+.main_decor { 
+
+ color: aliceblue;
+ font-size: 50px;
+ font-weight: 900;
+
+}
+
+.lets-go {
+
+ color: aliceblue;
+ padding-top: 2rem;
+
+
+
+}
+
+
+.to-you {
+
+ padding-top: 4rem;
+
+}
+
+.video {
+
+ border-radius: 20px;
+
+}
+
+.card_1 {
+
+ border: 2px solid #060d2c;
+ width: 300px;
+ height: 140px; 
+ border-radius: 15px; 
+
+}
+
+.big {
+
+ font-size: 70px;
+ color: #ff8514;
+ font-weight: 900;
+ padding-left: 1rem;
+ padding-top: 1rem;
+ position: relative;
+}
+
+.padd {
+
+ padding-left: 1rem;
+ color: #ff8514;
+ font-weight: 900;
+
+}
+
+.cards {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3rem;
+
+ 
+}
+
+.content {
+
+display: flex;
+justify-content: center;
+align-items: center;
+padding-bottom: 3rem;
+
+   
+}
+
+
+.statistics {
+
+ padding-top: 3rem;
+ padding-bottom: 5rem;
+
+}
+
+.ready {
+
+ font-size: 40px;
+ font-weight: 900;
+
+}
+
+
+
+
+.another_back {
+
+ background-color: #1a9eda;
+ width: 1350px;
+ min-height: 500px;
+ border-radius: 30px;
+ 
+
+
+}
+
+.goal {
+
+ display: flex;
+ justify-content: center;
+ align-items: center;
+   
+}
+
+.container.text-center {
+
+ padding-top: 10rem;
+
+
+}
+
+.sims {
+
+ font-size: 40px;
+ color: aliceblue;
+ font-weight: 900;
+
+
+}
+
+.power {
+
+ color: aliceblue;
+
+
+}
+
+
+.item {
+
+display: flex;
+justify-content: center;
+align-items: center;  
+padding-top: 3rem;
+
+
+}
+
+.item_decor {
+
+font-weight: 900;
+font-size: 40px;
+
+
+}
+
+
+.first_box {
+
+
+width: 600px;
+height: 100px;
+background-color: #84cfd4;
+border-radius: 12px;
+
+
+}
+
+
+.second_box {
+
+  width: 600px;
+  height: 100px;
+  background-color:#f5c3fc;
+  border-radius: 12px;
+ 
+
+}
+
+.content_2 {
+
+ padding: 1rem 1rem;
+
+}
+
+
+.content_1 {
+
+padding: 1rem 1rem;
+
+}
+
+.box {
+
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ gap: 3rem;
+ padding-top: 2rem;
+ 
+
+}
+
+
+
+.first_box {
+   
+  overflow: hidden; 
+}
+.first_box {
+  transition: 1s; 
+  
+}
+.first_box:hover {
+
+  transform: scale(1.1);
+
+}
+
+.second_box {
+   
+  overflow: hidden; 
+}
+.second_box {
+  transition: 1s; 
+  
+}
+.second_box:hover {
+
+  transform: scale(1.1);
+
+}
+
+
+.txt {
+
+text-align: center;
+padding-top: 2rem;
+
+}
+
+.intetr {
+
+font-weight: 900;
+font-size: 40px;
+ 
+}
+
+
+.box_1 {
+
+ border: 3px solid #1a1a1a;
+ width: 450px;
+ height: 280px;
+ border-radius: 15px;
+
+
+}
+
+.so_hot {
+
+ padding-top: 70px;
+
+}
+
+.so_hard {
+
+ padding-top: 70px;
+
+}
+
+.so {
+
+ padding-top: 20px;
+ padding-left: 1rem;
+
+}
+
+
+.box_1:hover {
+
+ background-color: #1a9eda;
+ color: aliceblue;
+ border: none;
+ 
+
+}
+
+
+.kefir {
+
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 2rem;
+margin-top: 2rem;
+
+}
+
+.sole {
+
+ display:flex;
+ justify-content: center;
+ align-items: center;
+ gap: 2rem;
+ margin-top: 2rem;
+
+}
+
+
+.content_point {
+
+ text-align: center;
+ padding-top: 2rem;
+
+
+}
+
+
+.some_decor {
+
+ font-weight: bolder;
+ font-size: 40px;
+
+}
+
+
+.trining {
+
+  border-radius: 15px;
+  width:400px;
+  height: 150px;
+  background-color: #ffd0d9;
+
+   
+}
+
+
+.trining_2 {
+
+  border-radius: 15px;
+  width:400px;
+  height: 150px;
+  background-color:#fbf2e7;
+
+}
+
+
+.trining_3 {
+ 
+  border-radius: 15px;
+  width: 400px;
+  height: 150px;
+  background-color:#f2f4f4;
+
+
+}
+
+.container {
+
+ margin-top: 2rem;
+
+
+}
+
+.txt_3 {
+
+ padding: 1rem 1rem;
+
+}
+
+.bino {
+
+ padding-top: 3rem; 
+
+
+}
+
+
+.item_back {
+
+ background-color: #e7e7e7;
+ width: 100%;
+ height: 600px;
+ margin-top: 3rem;
+
+}
+
+.items-block {
+
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ padding: 4rem;
+ gap: 3rem;
+ 
+
+}
+
+
+.back_round1 {
+
+ background: #111213;
+ width: 100%;
+ height:100%;
+ 
+
+}
+
+
+.none_list {
+
+list-style: none;
+ 
+
+}
+
+.lion {
+
+ font-size: 30px;
+ color: aliceblue;
+ font-weight: 900;
+ padding-bottom: 1rem;
+
+
+}
+
+
+
+
+.yall {
+
+ text-decoration: none;
+ color: aliceblue;
+ font-weight: 100;
+
+
+
+}
+
+.yall:hover {
+
+ color: #1a9eda;
+ 
+ 
+
+}
+
+li {
+
+ padding-top: 10px;
+
+}
+
+
+
+.container-2 {
+
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ padding-top: 150px;
+ padding-left: 150px;
+
+
+
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+ gap: 2rem;
+  
+  
+}
+
+.container button {
+  width: 50px;
+  height: 50px;
+  border: none;
+  background-color: #313638;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.icon {
+  width: 26px;
+  height: 26px;
+  fill: #fff;
+}
+
+
+
+.container button:nth-child(1):hover {
+  background-color: #2753a7;
+}
+
+.container button:nth-child(2):hover {
+  background-color: #cd242b;
+}
+
+.container button:nth-child(3):hover {
+  background-color: #55acee;
+}
+
+.container button:nth-child(4):hover {
+  background-color: #0274b3;
+}
+
+.title {
+  color: gray;
+  font-weight: 700;
+  font-size: 17px;
+  position: absolute;
+  top: -35px;
+  left: 0;
+}
+
+
+body {
+
+ min-height: 100vh;
+ width: 100%;
+ overflow-x: hidden;
+
+}
+
+
+
+
+
+.text {
+
+ 
+ 
+
+}
